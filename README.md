@@ -1,6 +1,6 @@
 # Pedophilia
 
-Made for all the twisted minds. Someday the clearnet and the otherside will be merged and we'll all rejoice!
+Made for all the twisted minds. Someday the clearnet will be completely decensored and we'll all rejoice!
 
 Updated a few times a week. Server invite for faster updates and support: hrJgRPmqtF
 
