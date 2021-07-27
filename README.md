@@ -19,4 +19,4 @@ Since some of you are too retarded to figure out standard encryption everything 
 
 To download the content go to releases and download the versions "Package.txt". Inside the text file will be a download for the content. Once installed and extracted you'll be prompted to enter a password. Copy and paste this into the input box "952cconSq7RbqejTCOJk1K1jigY6QczrmCYZWuJ3Pck=" (Without the quotes ofc).
 
-Once submitted it should extract without issue. If the download is corrupt or taken down please contact a House of Leaves member by joining the Server which is "hrJgRPmqtF".
+Once submitted it should extract without issue. If the download is corrupt or taken down please contact a House of Leaves member by creating an issue.
