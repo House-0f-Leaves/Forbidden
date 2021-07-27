@@ -1,6 +1,6 @@
 # Otherside
 
-Made for all the twisted minds. Someday the clearnet will be completely decensored and we'll all rejoice!
+Made for all the twisted minds. Someday the clearnet will be completely decensored and we'll all rejoice
 
 Updated a few times a week. Server invite for faster updates and support: hrJgRPmqtF
 
